@@ -7,5 +7,8 @@
             })
             return res;
         },
+        test(){
+            
+        }
     }
 })(window)
