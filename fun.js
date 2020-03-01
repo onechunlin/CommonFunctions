@@ -6,9 +6,6 @@
                 res += val;
             })
             return res;
-        },
-        test(){
-            console
         }
     }
 })(window)
