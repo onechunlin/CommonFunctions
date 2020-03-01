@@ -6,6 +6,6 @@
                 res += val;
             })
             return res;
-        }
+        },
     }
 })(window)
