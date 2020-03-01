@@ -8,7 +8,7 @@
             return res;
         },
         test(){
-            
+            console
         }
     }
 })(window)
